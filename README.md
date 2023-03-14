@@ -1,4 +1,4 @@
-(Second edit in branch2)
+(Third edit in branch2)
 
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
