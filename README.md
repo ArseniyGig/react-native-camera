@@ -1,5 +1,5 @@
 (Edit in branch1 for the third time)
-(Second edit for seven ex.)
+(Third edit for seven ex.)
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
